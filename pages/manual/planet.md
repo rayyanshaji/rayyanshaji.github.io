@@ -47,7 +47,10 @@ The **Nations** may store thousands of Resources in many formats and languages. 
 To be able to use **PLANET** you need to be part of the system. First thing you 
 will see on PLANET is **Login page**.
 
-### How to get to Become Member
+## Accessing the Login Page
+If you have correctly followed the steps from the Installation of community planet from the [**Planet Installation Guide**](https://planetlearning.github.io/#!./pages/micromaster/planet-installation-vagrant.md), you should be having a running instance of the application on [**http://localhost:3100/**](http://localhost:3100/)
+
+### How to become a Member?
 When you first open Planet, you will see the login page. Click on the "Become a member" button to create your account.
 
 ![](images/planet-login.png)
@@ -55,6 +58,8 @@ When you first open Planet, you will see the login page. Click on the "Become a 
 To return to the login page from the "Become a member" page, click on the "Already have an account?" button.
 
 ![](images/planet-become-member.png)
+
+Once you've an account created with your name, you will be able to access the "Edit Member Profile' page, where you can input your details such as Name, Email, Language, Phone Number and Birthdate along with the Level. Click on "Update", and you will see the changes being reflected. 
 
 ### Different kind of roles available in system
 There are several different roles available in Planet: "admin", "manager", "learner", "leader", and "monitor". Members are "learners" by default, and only the "admin" is allowed to set specific roles of members.
